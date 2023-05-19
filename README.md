@@ -1,6 +1,10 @@
 # Olá, me chamo Marcelo ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+🔭 Atualmente trabalho do Dev Front-End Júnior na empresa SportBay.
+
+
+
 <!--
 **MarceloLoure/MarceloLoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
